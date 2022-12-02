@@ -1,0 +1,17 @@
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\bin\Debug\netcoreapp3.1\Server_DomoticHouse.exe
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\bin\Debug\netcoreapp3.1\Server_DomoticHouse.deps.json
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\bin\Debug\netcoreapp3.1\Server_DomoticHouse.runtimeconfig.json
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\bin\Debug\netcoreapp3.1\Server_DomoticHouse.runtimeconfig.dev.json
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\bin\Debug\netcoreapp3.1\Server_DomoticHouse.dll
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\bin\Debug\netcoreapp3.1\Server_DomoticHouse.pdb
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\obj\Debug\netcoreapp3.1\Server_DomoticHouse.csproj.AssemblyReference.cache
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\obj\Debug\netcoreapp3.1\Server_DomoticHouse.Form1.resources
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\obj\Debug\netcoreapp3.1\Server_DomoticHouse.csproj.GenerateResource.cache
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\obj\Debug\netcoreapp3.1\Server_DomoticHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\obj\Debug\netcoreapp3.1\Server_DomoticHouse.AssemblyInfoInputs.cache
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\obj\Debug\netcoreapp3.1\Server_DomoticHouse.AssemblyInfo.cs
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\obj\Debug\netcoreapp3.1\Server_DomoticHouse.csproj.CoreCompileInputs.cache
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\obj\Debug\netcoreapp3.1\Server_DomoticHouse.dll
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\obj\Debug\netcoreapp3.1\Server_DomoticHouse.pdb
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\obj\Debug\netcoreapp3.1\Server_DomoticHouse.genruntimeconfig.cache
+C:\Archivio\Paleocapa\T e P\C#\Progetto casa domotica\Server_DomoticHouse\Server_DomoticHouse\obj\Debug\netcoreapp3.1\Server_DomoticHouse.Properties.Resources.resources
